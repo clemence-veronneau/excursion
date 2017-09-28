@@ -3,10 +3,10 @@ body{
   background-color: black;
   color: white;
   text-align: center;
+  font-weight: normal;
 }
 h1{
   font-size: 50px;
-  font-weight: normal;
 }
 a{
   color: Aquamarine;
@@ -23,5 +23,4 @@ p{
 h3{
   color: gray;
   text-align: right;
-  font-weight: normal;
 }
